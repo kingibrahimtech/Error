@@ -3,15 +3,15 @@
     "description": "I am black-panther-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "website": "https://youtube.com/@ibrahimaitech",
     "repository": "https://github.com/ibrahimaitech/BLACK-PANTHER-XMD",
-    "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-    "keywords": ["black-pan-md", "giftedtech", "Gifted-Md"],
+    "logo": "https://telegra.ph/file/9e038e5890def3cc7aca7.jpg",
+    "keywords": ["black-panther-md", "Ibrahim Adams", "Panther-Md"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Gifted Tech",
+        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
         "required": false
       },
   
@@ -28,7 +28,7 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
+        "value": "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿"
       },
       "TIME_ZONE": {
         "description": "Put TIME_ZONE according to your location",
@@ -38,7 +38,7 @@
         "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254762016957"
+        "value": "254739937062,254710772666"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -49,16 +49,6 @@
         "description": " Warn count for users to kick/block when warn limit exceed!",
         "required": false,
         "value": "5"
-      },
-        "BUTTON_MODE": {
-        "description": " Put value to 1 or 0 to enable/disable buttoned menu.",
-        "required": false,
-        "value": "1"
-      },
-        "MENU_STYLE": {
-        "description": " Put G2 or G1 to switch between menu modes.",
-        "required": false,
-        "value": "G2"
       },
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
@@ -104,17 +94,13 @@
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
         "value": "."
       },
-       "MENU_VIDEOS": {
-        "description": "User Images",
-        "value": "https://telegra.ph/file/6921dd79a48b0b546bc7b.mp4,https://telegra.ph/file/55ce9619821ed5827eb9b.mp4,https://telegra.ph/file/e485ab225efef8362c808.mp4,https://telegra.ph/file/6c439e550c58368cc906a.mp4,https://telegra.ph/file/5ab5ecac579b6d42a897e.mp4"
-      },
       "THUMB_IMAGE": {
       "description": "Menu Image",
-      "value": "https://telegra.ph/file/fc815a90e59c2203f0c41.jpg"
+      "value": "https://telegra.ph/file/9e038e5890def3cc7aca7.jpg"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
+        "value": "254739937062,254710772666"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -126,12 +112,12 @@
       },
       "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "ɢɪғᴛᴇᴅ-ᴍᴅ♥️",
+        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
         "required": false
       },
       "STICKER_AUTHOR": {
         "description": "Put Sticker Author_Name.",
-        "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
         "required": false
       }
     },
