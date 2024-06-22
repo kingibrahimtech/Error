@@ -1,19 +1,19 @@
 {
-   "name": "gifted-md",
+   "name": "black-panther-md",
    "version": "4.0.0",
-   "description": "Multi device whatsapp bot by GiftedTech.",
+   "description": "Multi device whatsapp bot by ibrahimadams.",
    "main": "gifted.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Gifted || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Gifted || node .",
-      "start": "pm2 start . --attach --name Gifted",
-      "stop": "pm2 stop Gifted",
-      "heroku-postbuild": "git clone https://github.com/an-author/Gifted-Md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/an-author/Gifted-Md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name Ibrahim || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name Ibrahim || node .",
+      "start": "pm2 start . --attach --name Ibrahim",
+      "stop": "pm2 stop Ibrahim",
+      "heroku-postbuild": "git clone https://github.com/kingibrahimtech/Error.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/kingibrahimtech/Error.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "Gifted Tech",
+   "author": "Ibrahim Adams",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/an-author/Gifted-Md.git"
+      "url": "git+https://github.com/kingibrahimtech/Error.git"
    },
    "bugs": {
-      "url": "https://github.com/an-author/Gifted-Md/issues"
+      "url": "https://github.com/kingibrahimtech/Error/issues"
    },
-   "homepage": "https://github.com/an-author/Gifted-Md#readme"
+   "homepage": "https://github.com/kingibrahimtech/Error#readme"
 }
