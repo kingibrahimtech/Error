@@ -4,7 +4,7 @@
 
 FROM node:20
 
-RUN git clone https://github.com/an-author/Gifted-Md.git /root/Gifted
+RUN git clone https://github.com/kingibrahimtech/Error.git /root/Gifted
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
