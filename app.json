@@ -96,7 +96,7 @@
       },
       "THUMB_IMAGE": {
       "description": "Menu Image",
-      "value": "https://telegra.ph/file/13a17a20844e5f96fae74.jpg"
+      "value": "https://telegra.ph/file/f45e20c99651b700e2604.jpg"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
