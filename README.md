@@ -10,6 +10,6 @@
 
       
 
-## 2. Tap on ACTION then tap on (Set up a workflow yourself) and paste that file that you have copied on the keyboard Then rename (main.yml) to deploy.yml after that you commit changes.
+## 2. Tap on ACTION then tap on (Set up a workflow yourself) and paste that file that you have copied in the channel.. Then rename (main.yml) to deploy.yml  after that you commit changes.
 
 ## 3. Go back to (config.js) then copy you session there and your done.... Just waiting for sometime then your bot will start working..
