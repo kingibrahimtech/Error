@@ -2,9 +2,9 @@
 [Tap here to watch a tutorial on how to deploy]
 
 
-# Steps how to deploy on github
+# Steps on how to deploy on github
 
-## 1. copy this to your keyboard
+## 1. copy this 👇👇 to your keyboard
 
 name: Node.js CI
 
@@ -40,6 +40,6 @@ jobs:
     - name: Start application
       run: npm start
 
-## 2. Tap on action then tap on.   and paste that file that you have copied on the keyboard then commit changes
+## 2. Tap on ACTION then tap on (Set up a workflow yourself) and paste that file that you have copied on the keyboard then commit changes.
 
-## 3. Go back to confit the upload you session and your done.... Just waiting for sometime then your bot will start working
+## 3. Go back to (config.js) then copy you session there and your done.... Just waiting for sometime then your bot will start working..
