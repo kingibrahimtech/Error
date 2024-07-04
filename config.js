@@ -53,7 +53,7 @@ module.exports = {
   VERSION: process.env.VERSION || "4.0.0",
   caption: process.env.CAPTION ||" 𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿",
   author: process.env.STICKER_AUTHOR || "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿",
-  packname: process.env.STICKER_NAME || "♥️",
+  packname: process.env.STICKER_NAME || "🐯",
   botname: process.env.BOT_NAME || "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿",
   ownername: process.env.OWNER_NAME || "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
   errorChat: process.env.ERROR_CHAT || "",
@@ -78,4 +78,5 @@ fs.watchFile(file, () => {
   delete require.cache[file];
   require(file);
 });
+
 
