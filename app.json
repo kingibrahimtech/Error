@@ -108,7 +108,7 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "private"
+        "value": "public"
       },
       "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
