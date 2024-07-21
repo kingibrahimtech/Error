@@ -17,46 +17,46 @@ global.timezone = process.env.TIME_ZONE || process.env.TIME_ZONE || "Africa/Nair
 global.github = process.env.GITHUB || "https://github.com/ibrahimaitech/BLACK-PANTHER-XMD";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
 global.website = process.env.GURL || "https://youtube.com/@ibrahimaitech";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c5b2b527a08a0b21392e0.jpg";
-global.devs = "254739937062,254710772666";
-global.sudo = process.env.SUDO_NUMBERS || "254739937062,254710772666";
-global.sudo = process.env.SUDO || "254739937062,254710772666";
-global.owner = process.env.OWNER_NUMBER || "254739937062,254710772666";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e312d667ca4069da6c40a.jpg";
+global.devs = "255 621 995 482";
+global.sudo = process.env.SUDO_NUMBERS || "255 621 995 482";
+global.sudo = process.env.SUDO || "255 621 995 482";
+global.owner = process.env.OWNER_NUMBER || "255 621 995 482,255 621 995 482";
 global.style = process.env.STYLE || "1";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
-global.warncount = process.env.WARN_COUNT || 5;
+global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "true";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
-global.userImages = process.env.MENU_VIDEOS || "";
+global.userImages = process.env.MENU_VIDEOS || "https://telegra.ph/file/e312d667ca4069da6c40a.jpg";
 global.waPresence = process.env.WAPRESENCE || "available";
-global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/9e038e5890def3cc7aca7.jpg";
+global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/e312d667ca4069da6c40a.jpg";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254739937062,254710772666";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "255 621 995 482";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
-global.read_status_from = process.env.READ_STATUS_FROM || "254739937062,254710772666";
+global.read_status_from = process.env.READ_STATUS_FROM || "255 621 995 482";
 
 global.api_smd = "https://api-smd.onrender.com";
 global.scan = "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEFIbUFwNTBCa2FHdi9sa3BKSzRvaWMxVC9rMDVrK3RCcnlPWVVhRDlFQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWVowTCtUS1daa0NXOHNoWUJ0c21xYkZYY2x5djZIVi81Sy9ZOXExVFNnVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ3UHZmVnNpVy9UbXV0VzlEWlhTdkErWmQydTdPVzNOVm5FTkZhVlEyaVZBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzaEx4ZDJrQ2IwNWRSNWl5L1BaU21jVTU2VGQ3NjdiNVphaUFqRTZkY1RZPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZONFZHK1ZpeHpjUmxKOGEreUpLRHZwTjA2aXRaQVYzWTlIRSs5YlhoRW89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZZQVFSZ1lFaGx1ZUJVbG9DRXdBdmFnb2h5VnQ5SFB5RytTMU9VT3RPREk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUliOWs3TmNEaEJ0a3BQbGlsazhUQ3k5a2FYQnREMzJCSzdOaTc4dEFuZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTHdNVFo1ampWSUZzWlR6RWF2dFdhVE5xWGg2c2hPdmZZcnpQOHhxczgzQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImkzcCtNZHBab3FUMlhPak4vR1JKVjUwMUM4L01MNENkVDhPOVh6ZWdUdHB3ZFkxeTkzSUZrdDFtN2kxMHJCWTh0bHRVMzFUd3cxV2o0WnRNeDhhUWlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTE5LCJhZHZTZWNyZXRLZXkiOiJrQjNIWUowYXNBQ2FqZmE5MUFPTlpxcElxU1lxaWdrSXZHaDR4T3BYbGJVPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJJaXlOZ2pqOVRfT0o2aWZzb29rMlhBIiwicGhvbmVJZCI6IjFjMTA1ZTc3LThlZDgtNGE5MC05NDVhLTE0ZmYyNjAzN2U3YSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJiT1FmQ3NWK2lkK3ZYajlPYXd6YW1CQzRKeGs9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibXZ0K1I3SnpVK21qeXErRitVT1FUNm5LMXVBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6Ijg4U1JYMlY1IiwibWUiOnsiaWQiOiIyNTQ3NjQwODIwNTA6NUBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTmlEdExzR0VLMmFtclFHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiNDdyVEE4SHhkWW9HOVNKamxGTGZrVlRhdmZnQ2dQZk9laVY4ZVZhL0EzTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiUHZ5SFNpTkVFVjdISGlvUDc4Qzg1SHNjclNnRkdMT0xjZ2wxcU1sdExxMThtMVhOeWZua0N0RzkzSmxyLy82bkp5aFFNZE04ay9XWC9RTWpHS2JZQlE9PSIsImRldmljZVNpZ25hdHVyZSI6IlM3NlAzWlkvQlQzNEpwRTRCZ21ybEdjcUJOMm5IRE9sc2d6cDl2Q0NqRXUxU0EzTmFxLzUrL0x2NWtHRnpUeEo1VVA0NGYwV2xaZFI5N09JOE1kVGdRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzY0MDgyMDUwOjVAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZU82MHdQQjhYV0tCdlVpWTVSUzM1RlUycjM0QW9EM3pub2xmSGxXdndOeiJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMDA5NDAxMSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFOaHcifQ=="
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUdxalB3Uk5SaWJ6ZjRiZk55QUhDa2tzckxqZW1lYnYvQit5aTk2TlRFQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUlh6R3hZOElvaUtXQ2JTbTJzd1VHTHZodlJhclZTQThSemduYXRKRk9qOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlTWM2UzNMdFk3VEQxU21haFRlc1EwTWtHU2tNQzZZZmVxZUtmRlBGU1hnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBQjhNZFdXS3U2RzF6ZkdPZ1F0ZGFUNzVaai82OGEvcHF3K3pSWXBCc2hVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndJV3ErWVozR2N2WWhXbmh3SnVqUHFIbVVwSTlCY08rNnNhRnU2N1N2R2M9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImhLcmp2TWVyR3dySENqZ0h1RGliMXBCcW8vMk9HczJ4MWxqMUEzMG1CRHc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS05lM1pKa2tJNEpoTmJWeHdOeFJxeitnTDh6SWNia01QeGdIWW0vQzNWND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiczhrUWp1RlptRElsUXpMeFpqbHRsZkN4YUpLeTk0RzlnQW9JVWR5VHMwdz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlowQjFEb2JVcElzUTM3QVEwdGJZekVEdjhRZDJmQ2xiWko1Y0V6TS95ajdVblJ3OFBFelBsWGMxOU8vWDdDQnRXeXJNSFRlSDk3SXlQak8rY0JpOERnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OTQsImFkdlNlY3JldEtleSI6Ii9GWGZmc0hYamJ1K3lQdFhEcnNBZkx3ZmtPM1VMc05vZS9vUytnRU5OcVU9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InRueG9YR3hVUzUySDBNa1pZYlNxTHciLCJwaG9uZUlkIjoiZTE4NTNmYzEtZGM5My00MWI2LWFhN2QtMmVkZjZlMjEwYzFkIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlsUFd5SDd6RUM1eGY0NTZleWdJdU9TeFJvUT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjSWJ5dUdHWHJMYTcyN2pqL1RudThWRTdWcGs9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiQlNZREpRVkciLCJtZSI6eyJpZCI6IjI1NTYyMTk5NTQ4MjoyN0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiLgvIZ5zZ9lzZ9zzZ9zzZ9lzZ9yzZ9izZ9vzZ95zZ/gvIYifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BQTTNZUUZFUEtsODdRR0dBWWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkczT21EVUV1ekZFZFdYTEp6ek5sNm1PWnBCWDNycmIrQnozZUIrd0VvblE9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlppSUN2UVJzOGJEMWdVREFKVGRzdTk2RlN5MitiN0g2S2VwTUlYN3BtMGFMUHlmbWp1dHNma050SEZraDY0TjBCN1V3VVdDaW9LNnJ1VWo3QkFMdkN3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJUSE5QZitxWjdJUUQrWm51L0ZMRGZoeUZiMDNhZDZLTjNZQ1RlTElkNFAycDhheStVSGFFK0JNZGo3c29oQXBqcWd1V2ZmWHBLVE1YRjBydkVBNHhCdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTYyMTk5NTQ4MjoyN0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJSdHpwZzFCTHN4UkhWbHl5Yzh6WmVwam1hUVY5NjYyL2djOTNnZnNCS0owIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIxNTUzNjY0LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQURjZiJ9"
 module.exports = {
   menu: process.env.MENU_STYLE || "G1", /*Leave it in Default else bot will Crash*/
-  HANDLERS: process.env.PREFIX || ".",
+  HANDLERS: process.env.PREFIX || "+",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "4.0.0",
   caption: process.env.CAPTION ||" 𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿",
   author: process.env.STICKER_AUTHOR || "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿",
   packname: process.env.STICKER_NAME || "🐯",
-  botname: process.env.BOT_NAME || "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿",
-  ownername: process.env.OWNER_NAME || "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
-  errorChat: process.env.ERROR_CHAT || "",
+  botname: process.env.BOT_NAME || "YESSER TEACH ",
+  ownername: process.env.OWNER_NAME || "yesser boy",
+  errorChat: process.env.ERROR_CHAT || "im yesser md",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
